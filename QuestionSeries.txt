@@ -11,7 +11,7 @@ I’ve grouped them so you can practice smartly instead of randomly.
 
 ## 🧠 1. Core Node.js (Basics → Advanced)
 
-1. Create a custom module and import it.
+1. Create a custom module and import it.  =  Done✅
 2. Build a simple HTTP server without Express.
 3. Handle query parameters manually.
 4. Parse JSON request body without middleware.
