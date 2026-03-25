@@ -1,0 +1,193 @@
+Alright — this is exactly the kind of thing that can level you up from “I know Node.js” to “I can handle production systems.” 💪
+Since you're around a **3-year experience level**, I’ll give you **100 hands-on, real-world focused questions** (not theory fluff).
+
+I’ve grouped them so you can practice smartly instead of randomly.
+
+---
+
+# 🚀 Node.js – 100 Hands-On Practice Questions (3-Year Dev)
+
+---
+
+## 🧠 1. Core Node.js (Basics → Advanced)
+
+1. Create a custom module and import it.
+2. Build a simple HTTP server without Express.
+3. Handle query parameters manually.
+4. Parse JSON request body without middleware.
+5. Implement your own logger utility.
+6. Use environment variables (`process.env`) in config.
+7. Read/write files using `fs` (sync vs async).
+8. Stream a large file using `createReadStream`.
+9. Build a CLI tool using Node.js.
+10. Handle uncaught exceptions gracefully.
+
+---
+
+## ⚙️ 2. Event Loop & Async
+
+11. Demonstrate event loop phases with code.
+12. Use `setImmediate`, `setTimeout`, `process.nextTick`.
+13. Convert callback-based code to Promises.
+14. Write your own `promisify` function.
+15. Handle parallel async tasks with `Promise.all`.
+16. Handle partial failures (`Promise.allSettled`).
+17. Create retry logic with exponential backoff.
+18. Implement timeout wrapper for async functions.
+19. Avoid callback hell in a nested API flow.
+20. Simulate blocking vs non-blocking behavior.
+
+---
+
+## 🌐 3. Express.js (Core API Building)
+
+21. Build REST API for a blog system.
+22. Implement route-level middleware.
+23. Global error handling middleware.
+24. Validate request body manually.
+25. Build pagination logic.
+26. Implement filtering & sorting API.
+27. Create versioned APIs (`/v1`, `/v2`).
+28. Handle file uploads (Multer).
+29. Build rate limiter middleware.
+30. Create custom response formatter.
+
+---
+
+## 🔐 4. Authentication & Security
+
+31. Implement JWT authentication.
+32. Refresh token flow.
+33. Password hashing using `bcrypt`.
+34. Role-based access control (RBAC).
+35. Protect routes with middleware.
+36. Implement API key authentication.
+37. Prevent XSS & CSRF attacks.
+38. Add Helmet for security headers.
+39. Build login/logout system.
+40. Secure file upload endpoints.
+
+---
+
+## 🗄️ 5. Database (MongoDB / SQL)
+
+41. Connect Node.js with MongoDB.
+42. Design schema for e-commerce.
+43. Write aggregation pipeline query.
+44. Implement soft delete.
+45. Create indexes and test performance.
+46. Handle transactions.
+47. Build relations (populate/joins).
+48. Pagination at DB level.
+49. Optimize slow queries.
+50. Implement caching with Redis.
+
+---
+
+## ⚡ 6. Performance Optimization
+
+51. Use clustering (`cluster` module).
+52. Implement worker threads.
+53. Optimize API response time.
+54. Add caching layer.
+55. Use compression middleware.
+56. Detect memory leaks.
+57. Benchmark API performance.
+58. Lazy load modules.
+59. Optimize DB calls.
+60. Implement API timeout handling.
+
+---
+
+## 🧵 7. Streams & Buffers
+
+61. Read large file in chunks.
+62. Pipe streams together.
+63. Build file upload with streams.
+64. Transform stream (modify data).
+65. Compress file using streams.
+66. Handle backpressure.
+67. Convert buffer to string & vice versa.
+68. Stream video/audio file.
+69. Create custom readable stream.
+70. Log stream data to file.
+
+---
+
+## 🧪 8. Testing (Very Important)
+
+71. Write unit tests using Jest.
+72. Mock database calls.
+73. Integration testing for APIs.
+74. Test async functions.
+75. Use supertest for API testing.
+76. Test error scenarios.
+77. Achieve high test coverage.
+78. Snapshot testing.
+79. Mock external APIs.
+80. Setup CI test pipeline.
+
+---
+
+## 🧱 9. System Design / Real-World Tasks
+
+81. Build URL shortener service.
+82. Design chat system backend.
+83. Create notification service.
+84. Build queue system (Bull/Redis).
+85. Implement email service.
+86. Design scalable logging system.
+87. Build rate-limited API gateway.
+88. Design microservice architecture.
+89. Implement service-to-service auth.
+90. Create audit logging system.
+
+---
+
+## ☁️ 10. DevOps & Deployment
+
+91. Dockerize Node.js app.
+92. Setup CI/CD pipeline.
+93. Deploy on AWS EC2.
+94. Use PM2 for process management.
+95. Configure Nginx as reverse proxy.
+96. Setup HTTPS (SSL).
+97. Monitor logs using tools.
+98. Handle zero-downtime deployment.
+99. Setup environment configs per stage.
+100. Add health check endpoints.
+
+---
+
+# 💡 How to Use This List (Important)
+
+Don’t just read — **build mini projects**:
+
+* 🟢 Pick 5 questions → build 1 small project
+* 🟢 Combine topics (Auth + DB + Performance)
+* 🟢 Push to GitHub (very important for interviews)
+
+---
+
+# 🔥 Pro Tip (Real Talk)
+
+If you can confidently implement:
+
+* JWT auth
+* Pagination + filtering
+* Caching (Redis)
+* Rate limiting
+* Error handling
+* One system design (like URL shortener)
+
+👉 You’re already ahead of **70–80% Node.js devs** at your level.
+
+---
+
+If you want next:
+
+* ✅ I can give **answers with code for all 100**
+* ✅ Or convert this into **10 real-world projects roadmap**
+* ✅ Or make **interview-ready GitHub portfolio plan**
+
+Just tell me 👍
