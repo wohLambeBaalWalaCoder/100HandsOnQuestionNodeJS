@@ -12,11 +12,11 @@ I’ve grouped them so you can practice smartly instead of randomly.
 ## 🧠 1.Core Node.js (Basics → Advanced)
 
 1.Create a custom module and import it. =  Done✅
-2.Build a simple HTTP server without Express.
-3.Handle query parameters manually.
-4.Parse JSON request body without middleware.
-5.Implement your own logger utility.
-6.Use environment variables (`process.env`) in config.
+2.Build a simple HTTP server without Express. =  Done✅
+3.Handle query parameters manually. =  Done✅
+4.Parse JSON request body without middleware. =  Done✅
+5.Implement your own logger utility. = Done✅
+6.Use environment variables (`process.env`) in config. == Done✅
 7.Read/write files using `fs` (sync vs async).
 8.Stream a large file using `createReadStream`.
 9.Build a CLI tool using Node.js.
