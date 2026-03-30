@@ -17,9 +17,9 @@ I’ve grouped them so you can practice smartly instead of randomly.
 4.Parse JSON request body without middleware. =  Done✅
 5.Implement your own logger utility. = Done✅
 6.Use environment variables (`process.env`) in config. == Done✅
-7.Read/write files using `fs` (sync vs async). === Done✅
-8.Stream a large file using `createReadStream`. === Done✅
-9.Build a CLI tool using Node.js. === Done✅
+7.Read/write files using `fs` (sync vs async).
+8.Stream a large file using `createReadStream`.
+9.Build a CLI tool using Node.js.
 10.Handle uncaught exceptions gracefully.
 
 ---
