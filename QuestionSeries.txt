@@ -20,19 +20,19 @@ I’ve grouped them so you can practice smartly instead of randomly.
 7.Read/write files using `fs` (sync vs async). === Done✅
 8.Stream a large file using `createReadStream`. === Done✅
 9.Build a CLI tool using Node.js. === Done✅
-10.Handle uncaught exceptions gracefully.
+10.Handle uncaught exceptions gracefully. === Done✅
 
 ---
 
 ## ⚙️ 2.Event Loop & Async
 
-11.Demonstrate event loop phases with code.
+11.Demonstrate event loop phases with code. === Done✅
 12.Use `setImmediate`, `setTimeout`, `process.nextTick`.
 13.Convert callback-based code to Promises.
 14.Write your own `promisify` function.
 15.Handle parallel async tasks with `Promise.all`.
 16.Handle partial failures (`Promise.allSettled`).
-17.Create retry logic with exponential backoff.
+17.Create retry logic with exponential backoff. === Done✅ 
 18.Implement timeout wrapper for async functions.
 19.Avoid callback hell in a nested API flow.
 20.Simulate blocking vs non-blocking behavior.
